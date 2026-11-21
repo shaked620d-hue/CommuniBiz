@@ -1,0 +1,6 @@
+@CommuniBiz_HostAddress = http://localhost:5222
+
+GET {{CommuniBiz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
